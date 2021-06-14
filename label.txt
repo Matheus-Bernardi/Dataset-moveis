@@ -1,0 +1,11 @@
+cadeira
+cadeira_giratoria
+cama
+cozinha
+criado-mudo
+escrivaninha
+guarda-roupa
+mesa
+poltrona
+rack
+sofa
