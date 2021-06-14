@@ -1,3 +1,0 @@
-git lfs track "*.zip"
-git add .
-git commit -m "Descricao"
